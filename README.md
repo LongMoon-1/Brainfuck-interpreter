@@ -9,7 +9,6 @@
 ## 特性
 
 - ✅ 完整支持 Brainfuck 指令：`> < + - . , [ ]`
-- ✅ 64KB 可寻址内存（`MEMORY_SIZE = 65536`）
 - ✅ 交互式 REPL 模式，逐行运行 BF 代码
 - ✅ 内置命令：`help`、`clear`、`exit`、`cd`、`pwd`、`dir` / `ls`、`bf 文件.bf`
 - ✅ 支持从文件加载并执行 `.bf` 程序
