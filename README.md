@@ -13,5 +13,4 @@
 - ✅ 内置命令：`help`、`clear`、`exit`、`cd`、`pwd`、`dir` / `ls`、`bf 文件.bf`
 - ✅ 支持从文件加载并执行 `.bf` 程序
 - ✅ UTF-8 控制台支持（Windows 自动设置）
-- ✅ 跨平台支持（Windows / Linux / macOS）
 - ✅ 清晰的帮助信息与错误提示
